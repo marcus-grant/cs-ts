@@ -1,10 +1,3 @@
-// TODO:
-// * Create singly linked list data structure. Don't use classes.
-// * Create append operation. It takes list (head) and new value.
-// * Test code using any tool you like
-// * For reference please use wiki article: https://en.wikipedia.org/wiki/Linked_list
-// * There are no penalties for using recursion
-
 export interface ILinkedList<T> {
   data?: T;
   next?: ILinkedList<T>;
