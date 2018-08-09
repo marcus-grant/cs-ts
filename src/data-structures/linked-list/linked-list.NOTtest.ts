@@ -1,3 +1,4 @@
+/*
 import {
   append,
   ILinkedList,
@@ -181,3 +182,4 @@ describe('linkedlist.removeNodeAt()', () => {
     });
   });
 });
+*/
